@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/himadribh07/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/himadribh07/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/himadribh07/LeetCode/tree/master/0217-contains-duplicate) |
+| [1288-remove-covered-intervals](https://github.com/himadribh07/LeetCode/tree/master/1288-remove-covered-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/himadribh07/LeetCode/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/himadribh07/LeetCode/tree/master/0217-contains-duplicate) |
+| [1288-remove-covered-intervals](https://github.com/himadribh07/LeetCode/tree/master/1288-remove-covered-intervals) |
 ## String
 |  |
 | ------- |
