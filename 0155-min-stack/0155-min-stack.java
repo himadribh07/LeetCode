@@ -23,15 +23,11 @@ class MinStack {
     }
     
     public int top() {
-        if(!st.isEmpty())
-            return st.peek();
-        return -1;
+        return st.peek();
     }
     
     public int getMin() {
-        if(!minSt.isEmpty())
-            return minSt.peek();
-        return -1;
+        return minSt.peek();
     }
 }
 
